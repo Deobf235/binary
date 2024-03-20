@@ -1,0 +1,45 @@
+@import 'nullstyle';
+
+.main {
+}
+.about {
+		// .about__container
+		&__container {
+		}
+		// .about__header
+		&__header {
+		}
+		// .about__title
+		&__title {
+		}
+		// .about__text
+		&__text {
+		}
+		// .about__body
+		&__body {
+		}
+		// .about__row
+		&__row {
+		}
+		// .about__column
+		&__column {
+		}
+		// .about__item
+		&__item {
+		}
+}
+.container {
+}
+.title {
+}
+.item-about {
+		// .item-about__icon
+		&__icon {
+		}
+		// .item-about__title
+		&__title {
+		}
+		// .item-about__text
+		&__text {
+		}
+}
